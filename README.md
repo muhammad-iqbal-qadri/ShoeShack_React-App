@@ -38,7 +38,7 @@ npm run dev
 ```bash
 http://localhost:5173
 ```
-6. Or you can simple _**[preview here](https://shoeshack-miq.vercel.app).**_
+6. Or you can simply _**[preview here](https://shoeshack-miq.vercel.app).**_
 
 ## Technologies Used
 - React JS
