@@ -20,11 +20,11 @@ ShoeShack, A single-page React web application serves as a landing page for a sh
 To run ShoeShack locally, follow these steps:
 1. Clone this repository to your local machine.
 ```bash
-git clone 
+git clone https://github.com/muhammad-iqbal-qadri/ShoeShack_React-App.git
 ```
 2. Navigate to the project directory.
 ```bash
-cd 
+cd ShoeShack_React-App
 ```
 3. Install dependencies using npm:
 ```bash
@@ -38,7 +38,7 @@ npm run dev
 ```bash
 http://localhost:5173
 ```
-6. Or you can simple [preview here]().
+6. Or you can simple _**[preview here](https://shoeshack-miq.vercel.app).**_
 
 ## Technologies Used
 - React JS
